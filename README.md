@@ -1,4 +1,5 @@
-# post-formats
+# Post Formats (User)
+
 ## Description
 
 What are [Post Formats](http://codex.wordpress.org/Post_Formats "Post Formats"), how can you use them, and how do you develop Post Formats? This step-by-step walkthrough will give you an understanding of what Post Formats are and how to create your own.
